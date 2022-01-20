@@ -104,7 +104,7 @@ input.adv-button {
   margin: 50px 40px;
 }
 
-.advanced-search-container .form-group {
+.advanced-search-container .form-label {
   margin-top: 10px;
   padding: 10px 0;
   font-size: 11px;
@@ -112,19 +112,17 @@ input.adv-button {
   margin-left: 1%;
 }
 
-.advanced-search-container .form-group label {
+.advanced-search-container .form-label label {
   display: inline-block;
   min-width: 167px;
   width: 16%;
-  height: 42px
-  color: white;
+  height: 42px;
   font-size: 13px;
   line-height: 16px;
-  vertical-align: text-top;
-  
+  vertical-align: text-top; 
 }
 
-.advanced-search-container .form-group input[type=text] {
+.advanced-search-container .form-label input[type=text] {
 
     display: inline-block;
     width: 50%;
